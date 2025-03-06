@@ -1,8 +1,8 @@
 # 사전
 
-> **영문 Unrailed 2 커뮤니티 위키를 거의 그대로 번역하여 옮겨온 문서입니다.**
+> **Unrailed 2 영문 커뮤니티 위키를 거의 그대로 번역하여 옮겨온 문서입니다.** 내용에는 오역이 있을 수 있으며, 번역 과정에서 일부 정보가 생략됐을 수 있습니다.
 >
-> [Unrailed 2 Wiki](https://wiki.unrailed.gg/index.php/U2_Wiki)
+> 원본 문서는 [Unrailed 2 Wiki](https://wiki.unrailed.gg/index.php/U2_Wiki)를 참조하세요.
 
 이 문서는 알려진 Unrailed 2 정보를 정량적인 데이터로 참조할 수 있는 레퍼런스를 제공합니다.
 
