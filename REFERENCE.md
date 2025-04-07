@@ -53,6 +53,7 @@
     - [적재 부스트](#적재-부스트)
     - [시간 확장](#시간-확장)
     - [열쇠](#열쇠)
+  - [열차 확장 호환성 표](#열차-확장-호환성-표)
   - [엔진](#엔진)
     - [하이드로 콜러](#하이드로-콜러)
     - [장난감 엔진](#장난감-엔진)
@@ -121,10 +122,10 @@
 
 ||일반 가격|할인 가격|
 |---|---|---|
-|열차 확장(이하 확장)|![볼트](./media/icons/bolt.png) 4|![볼트](./media/icons/bolt.png) 3|
-|확장 없는 열차|![볼트](./media/icons/bolt.png) 4|![볼트](./media/icons/bolt.png) 3|
-|확장 있는 열차|![볼트](./media/icons/bolt.png) 5|![볼트](./media/icons/bolt.png) 4|
-|디버프 확장이 붙은 열차|![볼트](./media/icons/bolt.png) 3|![볼트](./media/icons/bolt.png) 2|
+|열차 확장(이하 확장)|![볼트][icon-bolt] 4|![볼트][icon-bolt] 3|
+|확장 없는 열차|![볼트][icon-bolt] 4|![볼트][icon-bolt] 3|
+|확장 있는 열차|![볼트][icon-bolt] 5|![볼트][icon-bolt] 4|
+|디버프 확장이 붙은 열차|![볼트][icon-bolt] 3|![볼트][icon-bolt] 2|
 
 극단 난이도에선 다음과 같은 조합의 열차를 판매합니다:
 
@@ -134,10 +135,10 @@
 
 ||일반 가격|할인 가격|
 |---|---|---|
-|열차 확장(이하 확장)|![볼트](./media/icons/bolt.png) 4|![볼트](./media/icons/bolt.png) 3|
-|확장이 1개 붙은 열차|![볼트](./media/icons/bolt.png) 5|![볼트](./media/icons/bolt.png) 4|
-|확장이 2개 붙은 열차|![볼트](./media/icons/bolt.png) 6|![볼트](./media/icons/bolt.png) 5|
-|확장이 3개 붙은 열차|![볼트](./media/icons/bolt.png) 7|![볼트](./media/icons/bolt.png) 6|
+|열차 확장(이하 확장)|![볼트][icon-bolt] 4|![볼트][icon-bolt] 3|
+|확장이 1개 붙은 열차|![볼트][icon-bolt] 5|![볼트][icon-bolt] 4|
+|확장이 2개 붙은 열차|![볼트][icon-bolt] 6|![볼트][icon-bolt] 5|
+|확장이 3개 붙은 열차|![볼트][icon-bolt] 7|![볼트][icon-bolt] 6|
 
 #### 대장간
 
@@ -145,7 +146,7 @@
 
 대장간에서는 열차를 업그레이드하고, 열차 확장을 추가, 추출 또는 제거할 수 있습니다. 작업대에 열차를 올려놓으면 바로 밑에 기능 버튼이 활성화됩니다.
 
-또한, 대장간에선 ![볼트](./media/icons/bolt.png) 4개를 소모하여 구입할 수 있는 열차 확장 3개를 판매합니다. ([할인 옵션](#할인)이 있는 대장간에선 ![볼트](./media/icons/bolt.png) 3개를 소모합니다)
+또한, 대장간에선 ![볼트][icon-bolt] 4개를 소모하여 구입할 수 있는 열차 확장 3개를 판매합니다. ([할인 옵션](#할인)이 있는 대장간에선 ![볼트][icon-bolt] 3개를 소모합니다)
 
 대장간 작업대에 열차를 올려놓으면 다음과 같은 옵션이 제공됩니다:
 
@@ -163,12 +164,12 @@
 
 ||일반 가격|할인 가격|
 |---|---|---|
-|**레벨 1 > 2**|![볼트](./media/icons/bolt.png) 3|![볼트](./media/icons/bolt.png) 2|
-|**레벨 2 > 3**|![볼트](./media/icons/bolt.png) 4|![볼트](./media/icons/bolt.png) 3|
-|**레벨 3 > 4**|![볼트](./media/icons/bolt.png) 6|![볼트](./media/icons/bolt.png) 5|
-|**레벨 4 > 5**|![볼트](./media/icons/bolt.png) 12|![볼트](./media/icons/bolt.png) 10|
-|**레벨 5 > 6**|![볼트](./media/icons/bolt.png) 24|![볼트](./media/icons/bolt.png) 22|
-|**총합**|![볼트](./media/icons/bolt.png) **49**|![볼트](./media/icons/bolt.png) **42**|
+|**레벨 1 > 2**|![볼트][icon-bolt] 3|![볼트][icon-bolt] 2|
+|**레벨 2 > 3**|![볼트][icon-bolt] 4|![볼트][icon-bolt] 3|
+|**레벨 3 > 4**|![볼트][icon-bolt] 6|![볼트][icon-bolt] 5|
+|**레벨 4 > 5**|![볼트][icon-bolt] 12|![볼트][icon-bolt] 10|
+|**레벨 5 > 6**|![볼트][icon-bolt] 24|![볼트][icon-bolt] 22|
+|**총합**|![볼트][icon-bolt] **49**|![볼트][icon-bolt] **42**|
 
 #### 상자
 
@@ -212,7 +213,7 @@
 
 역에는 두 개의 슬롯 머신이 있고 슬롯 머신을 작동시키려면 모든 플레이어가 동시에 발판 위에 서 있어야 합니다.
 
-한 번 돌리는데 드는 비용은 ![볼트](./media/icons/bolt.png) **4개**입니다. ([할인 옵션](#할인)이 붙은 슬롯 머신 역에선 ![볼트](./media/icons/bolt.png) **3개**)
+한 번 돌리는데 드는 비용은 ![볼트][icon-bolt] **4개**입니다. ([할인 옵션](#할인)이 붙은 슬롯 머신 역에선 ![볼트][icon-bolt] **3개**)
 
 슬롯 머신은 최대 4번까지 돌릴 수 있고 4번째 회전에서 **무조건** 성공합니다.
 
@@ -224,7 +225,7 @@
 
 [WIP: To link each section to the respective cartridge]
 
-속도 슬롯 머신(![속도](./media/icons/speed.png))은 성공시 기차 속도를 약간 감소시킵니다. (대략적으로 게임 초반 다음 역으로 진행할 때 증가하는 속도 만큼 줄어듭니다. 따라서, 기차 속도가 너무 빠를 땐 줄어드는 속도가 증가하는 속도보다 한참 떨어지게 됩니다)
+속도 슬롯 머신(![속도][icon-speed])은 성공시 기차 속도를 약간 감소시킵니다. (대략적으로 게임 초반 다음 역으로 진행할 때 증가하는 속도 만큼 줄어듭니다. 따라서, 기차 속도가 너무 빠를 땐 줄어드는 속도가 증가하는 속도보다 한참 떨어지게 됩니다)
 
 두 슬롯 머신 모두 성공시 아주 낮은 확률로 ![추가 체력](./media/icons/heart.png) 추가 체력을 얻을 수 있습니다.
 
@@ -332,7 +333,7 @@ HQ로 들어갈 경우 약 60~70m 정도 거리의 맵을 가로지릅니다. �
 
 ![쉬움 난이도](./media/difficulties/easy.png)
 
-**보상: ![볼트](./media/icons/bolt.png) x1**
+**보상: ![볼트][icon-bolt] x1**
 
 쉬움 난이도는 다음 역으로 가는 경로 사이에 장애물이 없습니다.
 
@@ -346,7 +347,7 @@ HQ로 들어갈 경우 약 60~70m 정도 거리의 맵을 가로지릅니다. �
 
 ![보통 난이도](./media/difficulties/medium.png)
 
-**보상: ![볼트](./media/icons/bolt.png) x3**
+**보상: ![볼트][icon-bolt] x3**
 
 보통 난이도는 일반적으로 나무와 바위 같은 자원이 다음 역으로 가는 경로를 막고 있습니다.
 
@@ -358,7 +359,7 @@ HQ로 들어갈 경우 약 60~70m 정도 거리의 맵을 가로지릅니다. �
 
 ![어려움 난이도](./media/difficulties/hard.png)
 
-**보상: ![볼트](./media/icons/bolt.png) x4**
+**보상: ![볼트][icon-bolt] x4**
 
 어려움 난이도는 더 많은 산과 호수로 이루어져 있습니다. 자원이 듬성듬성하게 배치되어 있어 자원 관리가 중요합니다.
 
@@ -370,7 +371,7 @@ HQ로 들어갈 경우 약 60~70m 정도 거리의 맵을 가로지릅니다. �
 
 ![극단 난이도](./media/difficulties/extreme.png)
 
-**보상: ![볼트](./media/icons/bolt.png) x5**
+**보상: ![볼트][icon-bolt] x5**
 
 극단 난이도는 매우 드물게 출현하는 난이도로(어려움 카트리지가 없는 한) 맵 내에 자원이 매우 부족하게 배치되어 있습니다.
 
@@ -398,7 +399,7 @@ HQ로 들어갈 경우 약 60~70m 정도 거리의 맵을 가로지릅니다. �
 
 #### 할인
 
-역에서 판매되는 모든 아이템이 1개의 볼트(![볼트](./media/icons/bolt.png)) 만큼 할인됩니다.
+역에서 판매되는 모든 아이템이 1개의 볼트(![볼트][icon-bolt]) 만큼 할인됩니다.
 
 대장간역에서 열차 업그레이드를 구매할 때도 할인이 적용되며, 업그레이드당 1-2개의 볼트가 할인됩니다.
 
@@ -512,6 +513,38 @@ HQ로 들어갈 경우 약 60~70m 정도 거리의 맵을 가로지릅니다. �
 
 현재 게임내 사용처가 없습니다.
 
+## 열차 확장 호환성 표
+
+아래 표는 각 열차 확장과 호환되는 열차를 보여줍니다. 열차 확장의 효과는 각 열차 항목을 참조하세요.
+
+|| ![Storage-Pull](./media/extensions/Storage-Pull.png) | ![Storage-Push](./media/extensions/Storage-Push.png) | ![Front-Pull](./media/extensions/Front-Pull.png) | ![Auto-Drop](./media/extensions/Auto-Drop.png) | ![Magnet-Pick](./media/extensions/Magnet-Pick.png) | ![Ghost](./media/extensions/Ghost.png) | ![Hydrocharge](./media/extensions/Hydrocharge.png) | ![Supercharge](./media/extensions/Supercharge.png) | ![Range-Extension](./media/extensions/Range-Extension.png) | ![Speed-Boost](./media/extensions/Speed-Boost.png) | ![Stack-Boost](./media/extensions/Stack-Boost.png) | ![Time-Extension](./media/extensions/Time-Extension.png) | ![Key](./media/extensions/Key.png) |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| ![Crafter Wagon](./media/wagons/crafter.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Storage Wagon](./media/wagons/storage.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Collector](./media/wagons/) | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] |
+| ![Conveyor-Belt-Transporter](./media/wagons/ConveyorBeltTransporterWagon.png) | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Mag-Tractor](./media/wagons/MagTractorWagon.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] |
+| ![Cannon Cart](./media/wagons/CannonWagon.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Carriage Wagon](./media/wagons/CarriageWagon.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Transformer Wagon](./media/wagons/TransformerWagon.png) | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Slot Machine Wagon](./media/wagons/SlotWagon.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Dynamite Wagon](./media/wagons/DynamiteWagon.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Miner Wagon](./media/wagons/MinerWagon.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] |
+| ![Torpedo Wagon](./media/wagons/TorpedoWagon.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Turret Tower](./media/wagons/TurretTower.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Brake Wagon](./media/wagons/BrakeWagon.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] |
+| ![Ghost Wagon](./media/wagons/GhostWagon.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Tank Wagon](./media/wagons/TankWagon.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Supercharger Wagon](./media/wagons/SuperchargerWagon.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] |
+| ![Compactor Wagon](./media/wagons/CompactorWagon.png) | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Milk Wagon](./media/wagons/MilkWagon.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Piggybank](./media/wagons/PiggybankWagon.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Cartridge Toaster](./media/wagons/ToasterWagon.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Wagon Printer](./media/wagons/PrinterWagon.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Hexnut Tree Cart](./media/wagons/HexnutWagon.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Task Wagon](./media/wagons/TaskWagon.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
+| ![Versus Constructor Cart](./media/wagons/VSWagon.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] |
+
 ## 엔진
 
 엔진은 모든 기차의 핵심으로 게임 시작시에만 교체할 수 있습니다.
@@ -526,11 +559,11 @@ HQ로 들어갈 경우 약 60~70m 정도 거리의 맵을 가로지릅니다. �
 
 ![하이드로 콜러](./media/engines/hydro-coaler.png)
 
-![속도](./media/icons/speed.png) **시작 속도:** 1번째 역
+![속도][icon-speed] **시작 속도:** 1번째 역
 
-![열차](./media/icons/wagon.png) **최대 열차 개수:** 5게
+![열차][icon-wagon] **최대 열차 개수:** 5게
 
-![물](./media/icons/water.png) **급수량:** 60초
+![물][icon-water] **급수량:** 60초
 
 하이드로 콜러는 기본 시작 엔진으로 균형 잡힌 성능을 가지고 있습니다.
 
@@ -538,11 +571,11 @@ HQ로 들어갈 경우 약 60~70m 정도 거리의 맵을 가로지릅니다. �
 
 ![장난감 엔진](./media/engines/toy-engine.png)
 
-![속도](./media/icons/speed.png) **시작 속도:** 1번째 역
+![속도][icon-speed] **시작 속도:** 1번째 역
 
-![열차](./media/icons/wagon.png) **최대 열차 개수:** 4개
+![열차][icon-wagon] **최대 열차 개수:** 4개
 
-![물](./media/icons/water.png) **급수량:** 60초
+![물][icon-water] **급수량:** 60초
 
 장난감 엔진은 하트가 무제한으로, 기차가 터져도 마지막 역으로 돌아가 다시 시작할 수 있습니다.
 
@@ -552,11 +585,11 @@ HQ로 들어갈 경우 약 60~70m 정도 거리의 맵을 가로지릅니다. �
 
 ![푸셔 엔진](./media/engines/pusher-engine.png)
 
-![속도](./media/icons/speed.png) **시작 속도:** 4번째 역
+![속도][icon-speed] **시작 속도:** 4번째 역
 
-![열차](./media/icons/wagon.png) **최대 열차 개수:** 6개
+![열차][icon-wagon] **최대 열차 개수:** 6개
 
-![물](./media/icons/water.png) **급수량:** 40초
+![물][icon-water] **급수량:** 40초
 
 푸셔 엔진은 장착하는 열차의 위치를 엔진보다 앞에 달 수도 있는 특성을 가지고 있습니다.
 
@@ -572,11 +605,11 @@ HQ로 들어갈 경우 약 60~70m 정도 거리의 맵을 가로지릅니다. �
 
 ![스펙트럼 익스프레스](./media/engines/spectral-express.png)
 
-![속도](./media/icons/speed.png) **시작 속도:** 4번째 역
+![속도][icon-speed] **시작 속도:** 4번째 역
 
-![열차](./media/icons/wagon.png) **최대 열차 개수:** 5개
+![열차][icon-wagon] **최대 열차 개수:** 5개
 
-![물](./media/icons/water.png) **급수량:** 40초
+![물][icon-water] **급수량:** 40초
 
 스펙트럼 익스프레스는 유령 열차 확장이 엔진에 적용된 특성을 가지고 있습니다.
 
@@ -918,7 +951,7 @@ xychart-beta
 우유를 얻을 수 있는 동물 리스트는 다음과 같습니다:
 
 |동물|이름|출현 지역|효과|탑승 가능 여부|비고|
-|---|---|---|---|---|---|
+|-----|-----|-----|-----|-----|-----|
 |<img src="./media/animals/deer.png" alt="사슴" width="100px"/>|사슴(Deer)|모노레일 초지|5개의 완력 카트리지를 20초간 제공합니다.|✅|사슴이지만 소처럼 생겨서 소라고 불리기도 합니다.|
 |<img src="./media/animals/crocodile.png" alt="악어" width="100px"/>|악어(Crocodile)|화물 계곡|6개의 적재 카트리지를 20초간 제공합니다.|✅|N/A|
 |<img src="./media/animals/frog.png" alt="개구리" width="100px"/>|개구리(Frog)|박스카 만|5개의 횃불 카트리지를 20초간 제공합니다.|❌|주변의 **거미줄을 먹어치웁니다**. 다가가면 통통 튀면서 도망가기 때문에 잡기 어렵습니다.|
@@ -930,3 +963,10 @@ xychart-beta
 본 문서는 다른 문서에 별다른 언급이 없는 한, 원본 Wiki의 라이센스 정책에 따라 [크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0 국제 라이센스](https://creativecommons.org/licenses/by-sa/4.0/)를 따릅니다.
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+[icon-speed]: ./media/icons/speed.png
+[icon-wagon]: ./media/icons/wagon.png
+[icon-water]: ./media/icons/water.png
+[icon-bolt]: ./media/icons/bolt.png
+[misc-checkmark]: ./media/misc/checkmark.png
+[misc-crossmark]: ./media/misc/crossmark.png
