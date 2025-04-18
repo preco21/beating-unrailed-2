@@ -22,7 +22,7 @@
       - [???](#)
       - [슬롯 머신](#슬롯-머신)
       - [카트리지 교환소](#카트리지-교환소)
-      - [바이옴 교차로](#바이옴-교차로)
+      - [바이옴 교차](#바이옴-교차)
       - [카트리지 보관소](#카트리지-보관소)
       - [UnRailD HQ](#unraild-hq)
     - [역 난이도](#역-난이도)
@@ -182,12 +182,12 @@
 - **열차 확장**이 붙은 열차 2개
 - **디버프를 주는 열차 확장이 붙은** 열차 1개
 
-||일반 가격|할인 가격|
-|---|---|---|
-|열차 확장(이하 확장)|![볼트][icon-bolt] 4|![볼트][icon-bolt] 3|
-|확장 없는 열차|![볼트][icon-bolt] 4|![볼트][icon-bolt] 3|
-|확장 있는 열차|![볼트][icon-bolt] 5|![볼트][icon-bolt] 4|
-|디버프 확장이 붙은 열차|![볼트][icon-bolt] 3|![볼트][icon-bolt] 2|
+|                         | 일반 가격            | 할인 가격            |
+| ----------------------- | -------------------- | -------------------- |
+| 열차 확장(이하 확장)    | ![볼트][icon-bolt] 4 | ![볼트][icon-bolt] 3 |
+| 확장 없는 열차          | ![볼트][icon-bolt] 4 | ![볼트][icon-bolt] 3 |
+| 확장 있는 열차          | ![볼트][icon-bolt] 5 | ![볼트][icon-bolt] 4 |
+| 디버프 확장이 붙은 열차 | ![볼트][icon-bolt] 3 | ![볼트][icon-bolt] 2 |
 
 극단 난이도에선 다음과 같은 조합의 열차를 판매합니다:
 
@@ -195,12 +195,12 @@
 - 열차 확장이 **2개** 붙은 열차 2개
 - 열차 확장이 **3개** 붙은 열차 1개
 
-||일반 가격|할인 가격|
-|---|---|---|
-|열차 확장(이하 확장)|![볼트][icon-bolt] 4|![볼트][icon-bolt] 3|
-|확장이 1개 붙은 열차|![볼트][icon-bolt] 5|![볼트][icon-bolt] 4|
-|확장이 2개 붙은 열차|![볼트][icon-bolt] 6|![볼트][icon-bolt] 5|
-|확장이 3개 붙은 열차|![볼트][icon-bolt] 7|![볼트][icon-bolt] 6|
+|                      | 일반 가격            | 할인 가격            |
+| -------------------- | -------------------- | -------------------- |
+| 열차 확장(이하 확장) | ![볼트][icon-bolt] 4 | ![볼트][icon-bolt] 3 |
+| 확장이 1개 붙은 열차 | ![볼트][icon-bolt] 5 | ![볼트][icon-bolt] 4 |
+| 확장이 2개 붙은 열차 | ![볼트][icon-bolt] 6 | ![볼트][icon-bolt] 5 |
+| 확장이 3개 붙은 열차 | ![볼트][icon-bolt] 7 | ![볼트][icon-bolt] 6 |
 
 #### 대장간
 
@@ -224,14 +224,14 @@
 
 [할인 옵션](#할인)이 붙은 대장간은 업그레이드 가격이 할인된 가격으로 제공됩니다.
 
-||일반 가격|할인 가격|
-|---|---|---|
-|**레벨 1 > 2**|![볼트][icon-bolt] 3|![볼트][icon-bolt] 2|
-|**레벨 2 > 3**|![볼트][icon-bolt] 4|![볼트][icon-bolt] 3|
-|**레벨 3 > 4**|![볼트][icon-bolt] 6|![볼트][icon-bolt] 5|
-|**레벨 4 > 5**|![볼트][icon-bolt] 12|![볼트][icon-bolt] 10|
-|**레벨 5 > 6**|![볼트][icon-bolt] 24|![볼트][icon-bolt] 22|
-|**총합**|![볼트][icon-bolt] **49**|![볼트][icon-bolt] **42**|
+|                | 일반 가격                 | 할인 가격                 |
+| -------------- | ------------------------- | ------------------------- |
+| **레벨 1 > 2** | ![볼트][icon-bolt] 3      | ![볼트][icon-bolt] 2      |
+| **레벨 2 > 3** | ![볼트][icon-bolt] 4      | ![볼트][icon-bolt] 3      |
+| **레벨 3 > 4** | ![볼트][icon-bolt] 6      | ![볼트][icon-bolt] 5      |
+| **레벨 4 > 5** | ![볼트][icon-bolt] 12     | ![볼트][icon-bolt] 10     |
+| **레벨 5 > 6** | ![볼트][icon-bolt] 24     | ![볼트][icon-bolt] 22     |
+| **총합**       | ![볼트][icon-bolt] **49** | ![볼트][icon-bolt] **42** |
 
 #### 상자
 
@@ -257,13 +257,13 @@
 
 물음표 역은 특수 열차를 제공하고 바이옴마다 서로 다른 특성을 가지고 있습니다.
 
-|바이옴|열차|
-|---|---|
-| [모노레일 초지](#모노레일-초지) | [돼지 저금통](#돼지-저금통) |
-| [박스카 만](#박스카-만) | [열차 프린터](#열차-프린터) |
-| [화물 계곡](#화물-계곡) | [카트리지 토스터](#카트리지-토스터) |
-| [환승섬](#환승섬) | [헥스너트 나무차](#헥스너트-나무차) |
-| [보일러 황무지](#보일러-황무지) | [과제차](#과제차) |
+| 바이옴                          | 열차                                |
+| ------------------------------- | ----------------------------------- |
+| [모노레일 초지](#모노레일-초지) | [돼지 저금통](#돼지-저금통)         |
+| [박스카 만](#박스카-만)         | [열차 프린터](#열차-프린터)         |
+| [화물 계곡](#화물-계곡)         | [카트리지 토스터](#카트리지-토스터) |
+| [환승섬](#환승섬)               | [헥스너트 나무차](#헥스너트-나무차) |
+| [보일러 황무지](#보일러-황무지) | [과제차](#과제차)                   |
 
 #### 슬롯 머신
 
@@ -322,13 +322,13 @@
 
 [추가 재고 옵션](#추가-재고)이 붙은 카트리지 교환소는 교환기에 카트리지가 1개 더 추가됩니다.
 
-#### 바이옴 교차로
+#### 바이옴 교차
 
-![바이옴 교차로](./media/stations/biome-junction.png)
+![바이옴 교차](./media/stations/biome-junction.png)
 
-![바이옴 교차로 실제](./media/biome-junction-map.png)
+![바이옴 교차 실제](./media/biome-junction-map.png)
 
-바이옴 교차로는 각 바이옴의 보스를 쓰러트리고 도착하는 역으로, 다음 바이옴으로 넘어가기 전 잠시 정비할 수 있는 역입니다.
+바이옴 교차는 각 바이옴의 보스를 쓰러트리고 도착하는 역으로, 다음 바이옴으로 넘어가기 전 잠시 정비할 수 있는 역입니다.
 
 각 플레이어는 새로운 카트리지를 하나 선택할 수 있습니다:
 
@@ -338,7 +338,7 @@
 
 오른편에는 넘어갈 수 있는 새로운 바이옴 2개가 출현합니다. 바이옴을 선택하면 기차 속도가 초기 상태로 초기화됩니다. (첫번째 루프 한정)
 
-첫번째 루프에선 총 6개의 바이옴을 모두 지나야 하고, 5번째 바이옴에서 6번째로 넘어갈 때 출현하는 바이옴 교차로는 단 1개의 바이옴만 선택할 수 있습니다.
+첫번째 루프에선 총 6개의 바이옴을 모두 지나야 하고, 5번째 바이옴에서 6번째로 넘어갈 때 출현하는 바이옴 교차는 단 1개의 바이옴만 선택할 수 있습니다.
 
 6개의 바이옴을 모두 클리어하면 유저는 UnRailD HQ로 들어가 게임을 끝낼지, 아니면 다음 바이옴을 선택해 계속 진행할지 선택할 수 있습니다.
 
@@ -370,7 +370,7 @@
 
 ![UnRailD HQ](./media/stations/unrailed-hq.png)
 
-6번째 바이옴까지 모두 클리어한 이후 바이옴 교차로에서 선택할 수 있는 마지막 종착역입니다.
+6번째 바이옴까지 모두 클리어한 이후 바이옴 교차에서 선택할 수 있는 마지막 종착역입니다.
 
 UnRailD HQ로 진행하길 선택한 경우 개발자 크레딧과 함께 엔딩을 보게 됩니다.
 
@@ -700,33 +700,33 @@ HQ로 들어갈 경우 약 60~70m 정도 거리의 맵을 가로지릅니다. �
 
 아래 표는 각 열차 확장과 호환되는 열차를 보여줍니다. 열차 확장의 효과는 각 열차 항목을 참조하세요.
 
-|     | [![화물차 가져오기](./media/extensions/storage-pull.png)](#화물차-가져오기) | [![화물차 보내기](./media/extensions/storage-push.png)](#화물차-보내기) | [![앞차에서 가져오기](./media/extensions/front-pull.png)](#앞차에서-가져오기) | [![자동으로 떨구기](./media/extensions/auto-drop.png)](#자동으로-떨구기) | [![자석](./media/extensions/magnet-pick.png)](#자석) | [![유령](./media/extensions/ghost.png)](#유령) | [![하이드로차지](./media/extensions/hydrocharge.png)](#하이드로차지) | [![슈퍼차지](./media/extensions/supercharge.png)](#슈퍼차지) | [![범위 확장](./media/extensions/range-extension.png)](#범위-확장) | [![속도 부스트](./media/extensions/speed-boost.png)](#속도-부스트) | [![적재 부스트](./media/extensions/stack-boost.png)](#적재-부스트) | [![시간 확장](./media/extensions/time-extension.png)](#시간-확장) | [![열쇠](./media/extensions/key.png)](#열쇠) |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| ![제작차](./media/wagons/small/crafter.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![화물차](./media/wagons/small/storage.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![수집차](./media/wagons/small/collector.png) | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] |
-| ![컨베이어벨트차](./media/wagons/small/conveyor-belt.png) | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![맥-트랙터](./media/wagons/small/mag-tractor.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] |
-| ![대포차](./media/wagons/small/cannon.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![보관차](./media/wagons/small/carriage.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![변환차](./media/wagons/small/transformer.png) | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![슬롯머신차](./media/wagons/small/slot-machine.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![다이너마이트차](./media/wagons/small/dynamite.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![채굴차](./media/wagons/small/miner.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] |
-| ![어뢰차](./media/wagons/small/torpedo.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![터렛차](./media/wagons/small/turret-tower.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![브레이크차](./media/wagons/small/brake.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] |
-| ![유령차](./media/wagons/small/ghost.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![물탱크차](./media/wagons/small/water-tank.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![과급차](./media/wagons/small/supercharger.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] |
-| ![분쇄차](./media/wagons/small/compactor.png) | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![우유차](./media/wagons/small/milk.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![돼지](./media/wagons/small/piggybank.png) | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![카트리지토스터](./media/wagons/small/cartridge-toaster.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![열차프린터](./media/wagons/small/wagon-printer.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![헥스너트나무차](./media/wagons/small/hexnut-tree.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![과제차](./media/wagons/small/task-wagon.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] |
-| ![대전용차](./media/wagons/small/vs-wagon.png) | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![✅][misc-checkmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] | ![❌][misc-crossmark] |
+|                                                               | [![화물차 가져오기](./media/extensions/storage-pull.png)](#화물차-가져오기) | [![화물차 보내기](./media/extensions/storage-push.png)](#화물차-보내기) | [![앞차에서 가져오기](./media/extensions/front-pull.png)](#앞차에서-가져오기) | [![자동으로 떨구기](./media/extensions/auto-drop.png)](#자동으로-떨구기) | [![자석](./media/extensions/magnet-pick.png)](#자석) | [![유령](./media/extensions/ghost.png)](#유령) | [![하이드로차지](./media/extensions/hydrocharge.png)](#하이드로차지) | [![슈퍼차지](./media/extensions/supercharge.png)](#슈퍼차지) | [![범위 확장](./media/extensions/range-extension.png)](#범위-확장) | [![속도 부스트](./media/extensions/speed-boost.png)](#속도-부스트) | [![적재 부스트](./media/extensions/stack-boost.png)](#적재-부스트) | [![시간 확장](./media/extensions/time-extension.png)](#시간-확장) | [![열쇠](./media/extensions/key.png)](#열쇠) |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------ | ----------------------------------------------------------------- | -------------------------------------------- |
+| ![제작차](./media/wagons/small/crafter.png)                   | ![✅][misc-checkmark]                                                        | ![❌][misc-crossmark]                                                    | ![✅][misc-checkmark]                                                          | ![✅][misc-checkmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![✅][misc-checkmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![화물차](./media/wagons/small/storage.png)                   | ![❌][misc-crossmark]                                                        | ![❌][misc-crossmark]                                                    | ![✅][misc-checkmark]                                                          | ![❌][misc-crossmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![✅][misc-checkmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![수집차](./media/wagons/small/collector.png)                 | ![✅][misc-checkmark]                                                        | ![✅][misc-checkmark]                                                    | ![✅][misc-checkmark]                                                          | ![✅][misc-checkmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![✅][misc-checkmark]                                                 | ![✅][misc-checkmark]                                         | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                              | ![✅][misc-checkmark]                         |
+| ![컨베이어벨트차](./media/wagons/small/conveyor-belt.png)     | ![❌][misc-crossmark]                                                        | ![✅][misc-checkmark]                                                    | ![❌][misc-crossmark]                                                          | ![❌][misc-crossmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![❌][misc-crossmark]                                                 | ![✅][misc-checkmark]                                         | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![맥-트랙터](./media/wagons/small/mag-tractor.png)            | ![✅][misc-checkmark]                                                        | ![❌][misc-crossmark]                                                    | ![✅][misc-checkmark]                                                          | ![❌][misc-crossmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![✅][misc-checkmark]                                                 | ![✅][misc-checkmark]                                         | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                               | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                              | ![✅][misc-checkmark]                         |
+| ![대포차](./media/wagons/small/cannon.png)                    | ![✅][misc-checkmark]                                                        | ![❌][misc-crossmark]                                                    | ![✅][misc-checkmark]                                                          | ![❌][misc-crossmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![❌][misc-crossmark]                                                 | ![✅][misc-checkmark]                                         | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![보관차](./media/wagons/small/carriage.png)                  | ![✅][misc-checkmark]                                                        | ![❌][misc-crossmark]                                                    | ![✅][misc-checkmark]                                                          | ![❌][misc-crossmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![❌][misc-crossmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![변환차](./media/wagons/small/transformer.png)               | ![✅][misc-checkmark]                                                        | ![✅][misc-checkmark]                                                    | ![✅][misc-checkmark]                                                          | ![✅][misc-checkmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![✅][misc-checkmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![슬롯머신차](./media/wagons/small/slot-machine.png)          | ![❌][misc-crossmark]                                                        | ![❌][misc-crossmark]                                                    | ![❌][misc-crossmark]                                                          | ![❌][misc-crossmark]                                                     | ![❌][misc-crossmark]                                 | ![✅][misc-checkmark]                           | ![✅][misc-checkmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![다이너마이트차](./media/wagons/small/dynamite.png)          | ![✅][misc-checkmark]                                                        | ![❌][misc-crossmark]                                                    | ![✅][misc-checkmark]                                                          | ![✅][misc-checkmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![✅][misc-checkmark]                                                 | ![✅][misc-checkmark]                                         | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![채굴차](./media/wagons/small/miner.png)                     | ![✅][misc-checkmark]                                                        | ![❌][misc-crossmark]                                                    | ![✅][misc-checkmark]                                                          | ![❌][misc-crossmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![✅][misc-checkmark]                                                 | ![✅][misc-checkmark]                                         | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                              | ![✅][misc-checkmark]                         |
+| ![어뢰차](./media/wagons/small/torpedo.png)                   | ![✅][misc-checkmark]                                                        | ![❌][misc-crossmark]                                                    | ![✅][misc-checkmark]                                                          | ![✅][misc-checkmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![✅][misc-checkmark]                                                 | ![✅][misc-checkmark]                                         | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![터렛차](./media/wagons/small/turret-tower.png)              | ![❌][misc-crossmark]                                                        | ![❌][misc-crossmark]                                                    | ![❌][misc-crossmark]                                                          | ![❌][misc-crossmark]                                                     | ![❌][misc-crossmark]                                 | ![✅][misc-checkmark]                           | ![✅][misc-checkmark]                                                 | ![✅][misc-checkmark]                                         | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![브레이크차](./media/wagons/small/brake.png)                 | ![❌][misc-crossmark]                                                        | ![❌][misc-crossmark]                                                    | ![❌][misc-crossmark]                                                          | ![❌][misc-crossmark]                                                     | ![❌][misc-crossmark]                                 | ![✅][misc-checkmark]                           | ![❌][misc-crossmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![✅][misc-checkmark]                                              | ![✅][misc-checkmark]                         |
+| ![유령차](./media/wagons/small/ghost.png)                     | ![❌][misc-crossmark]                                                        | ![❌][misc-crossmark]                                                    | ![❌][misc-crossmark]                                                          | ![❌][misc-crossmark]                                                     | ![❌][misc-crossmark]                                 | ![❌][misc-crossmark]                           | ![❌][misc-crossmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![물탱크차](./media/wagons/small/water-tank.png)              | ![❌][misc-crossmark]                                                        | ![❌][misc-crossmark]                                                    | ![❌][misc-crossmark]                                                          | ![❌][misc-crossmark]                                                     | ![❌][misc-crossmark]                                 | ![✅][misc-checkmark]                           | ![❌][misc-crossmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![과급차](./media/wagons/small/supercharger.png)              | ![✅][misc-checkmark]                                                        | ![❌][misc-crossmark]                                                    | ![✅][misc-checkmark]                                                          | ![❌][misc-crossmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![✅][misc-checkmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                              | ![✅][misc-checkmark]                         |
+| ![분쇄차](./media/wagons/small/compactor.png)                 | ![✅][misc-checkmark]                                                        | ![✅][misc-checkmark]                                                    | ![✅][misc-checkmark]                                                          | ![✅][misc-checkmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![✅][misc-checkmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![우유차](./media/wagons/small/milk.png)                      | ![❌][misc-crossmark]                                                        | ![❌][misc-crossmark]                                                    | ![❌][misc-crossmark]                                                          | ![❌][misc-crossmark]                                                     | ![❌][misc-crossmark]                                 | ![✅][misc-checkmark]                           | ![❌][misc-crossmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![돼지](./media/wagons/small/piggybank.png)                   | ![✅][misc-checkmark]                                                        | ![❌][misc-crossmark]                                                    | ![✅][misc-checkmark]                                                          | ![❌][misc-crossmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![❌][misc-crossmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![카트리지토스터](./media/wagons/small/cartridge-toaster.png) | ![❌][misc-crossmark]                                                        | ![❌][misc-crossmark]                                                    | ![❌][misc-crossmark]                                                          | ![❌][misc-crossmark]                                                     | ![❌][misc-crossmark]                                 | ![✅][misc-checkmark]                           | ![❌][misc-crossmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![열차프린터](./media/wagons/small/wagon-printer.png)         | ![❌][misc-crossmark]                                                        | ![❌][misc-crossmark]                                                    | ![✅][misc-checkmark]                                                          | ![❌][misc-crossmark]                                                     | ![✅][misc-checkmark]                                 | ![✅][misc-checkmark]                           | ![❌][misc-crossmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![헥스너트나무차](./media/wagons/small/hexnut-tree.png)       | ![❌][misc-crossmark]                                                        | ![❌][misc-crossmark]                                                    | ![❌][misc-crossmark]                                                          | ![❌][misc-crossmark]                                                     | ![❌][misc-crossmark]                                 | ![✅][misc-checkmark]                           | ![❌][misc-crossmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![과제차](./media/wagons/small/task-wagon.png)                | ![❌][misc-crossmark]                                                        | ![❌][misc-crossmark]                                                    | ![❌][misc-crossmark]                                                          | ![❌][misc-crossmark]                                                     | ![❌][misc-crossmark]                                 | ![✅][misc-checkmark]                           | ![❌][misc-crossmark]                                                 | ![✅][misc-checkmark]                                         | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                              | ![✅][misc-checkmark]                         |
+| ![대전용차](./media/wagons/small/vs-wagon.png)                | ![❌][misc-crossmark]                                                        | ![❌][misc-crossmark]                                                    | ![❌][misc-crossmark]                                                          | ![✅][misc-checkmark]                                                     | ![❌][misc-crossmark]                                 | ![✅][misc-checkmark]                           | ![✅][misc-checkmark]                                                 | ![✅][misc-checkmark]                                         | ![✅][misc-checkmark]                                               | ![✅][misc-checkmark]                                               | ![❌][misc-crossmark]                                               | ![❌][misc-crossmark]                                              | ![❌][misc-crossmark]                         |
 
 ## 엔진
 
@@ -861,10 +861,10 @@ NPC를 공격할 때 한 번의 공격으로 1데미지를 입힙니다.
 
 ## 자원
 
-|형상|이름|역할|비고|
-|---|---|---|---|
-|![나무](./media/commodities/wood.png)|나무|철로 제작, **물 위에 다리 만들기**|다음 라운드 시작시 육로로 넘어갈 수 있는 길이 없을 경우, 물을 건너가기 위한 길을 만들어야 하기 때문에 전 라운드에서 나무를 미리 모아두는 것을 추천합니다. (보일러 황무지 제외)|
-|![철(돌)](./media/commodities/iron.png)|철(돌)|철로 제작|N/A|
+| 형상                                    | 이름   | 역할                               | 비고                                                                                                                                                                           |
+| --------------------------------------- | ------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![나무](./media/commodities/wood.png)   | 나무   | 철로 제작, **물 위에 다리 만들기** | 다음 라운드 시작시 육로로 넘어갈 수 있는 길이 없을 경우, 물을 건너가기 위한 길을 만들어야 하기 때문에 전 라운드에서 나무를 미리 모아두는 것을 추천합니다. (보일러 황무지 제외) |
+| ![철(돌)](./media/commodities/iron.png) | 철(돌) | 철로 제작                          | N/A                                                                                                                                                                            |
 
 열차 중 자원을 넣어야 동작하는 열차가 있습니다. 맥-트랙터와 같이 넣은 자원에 따라 효과가 달라지는 열차도 있습니다.
 
@@ -876,10 +876,10 @@ NPC를 공격할 때 한 번의 공격으로 1데미지를 입힙니다.
 
 압축된 자원은 조금 일반 자원보다 탁한 색을 띄고 있습니다. 압축된 자원은 일반 자원보다 5배의 효율을 가지고 있습니다. 다시 말해, 압축된 자원 1개를 넣으면 일반 자원 5개로 취급하기 때문에 압축된 자원 한 세트로 철로 5개를 만들 수 있습니다.
 
-|형상|이름|역할|비고|
-|---|---|---|---|
-|![압축된 나무](./media/commodities/compressed-wood.png)|압축된 나무|철로 제작, **물 위에 다리 만들기**|압축된 나무로 물 위에 다리를 만들 경우 2x2 크기로 만들어지기 때문에, 일반 나무로 만든 다리보다 더 효율적입니다.|
-|![압축된 철(돌)](./media/commodities/compressed-iron.png)|압축된 철(돌)|철로 제작|N/A|
+| 형상                                                      | 이름          | 역할                               | 비고                                                                                                            |
+| --------------------------------------------------------- | ------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![압축된 나무](./media/commodities/compressed-wood.png)   | 압축된 나무   | 철로 제작, **물 위에 다리 만들기** | 압축된 나무로 물 위에 다리를 만들 경우 2x2 크기로 만들어지기 때문에, 일반 나무로 만든 다리보다 더 효율적입니다. |
+| ![압축된 철(돌)](./media/commodities/compressed-iron.png) | 압축된 철(돌) | 철로 제작                          | N/A                                                                                                             |
 
 압축된 자원은 일반 자원과 함께 들 수 없습니다. 같은 종류의 자원끼리만 들 수 있습니다. 같은 맥락으로, 바닥에 내려놓을 때도 같은 종류의 자원끼리만 쌓아서 내려놓을 수 있습니다. (e.g., 일반 나무 1개 + 압축된 나무 2개 = 불가)
 
@@ -968,52 +968,52 @@ NPC를 공격할 때 한 번의 공격으로 1데미지를 입힙니다.
 
 이 속도는 시작 바이옴에 따라 N개의 역을 반복한 횟수 만큼으로 결정됩니다.
 
-|바이옴|시작 속도 지점 (역 개수)|
-|---|---|
-|모노레일 초지|0개|
-|화물 계곡|2개|
-|박스카 만|2개|
-|환승섬|3개|
-|보일러 황무지|4개|
+| 바이옴        | 시작 속도 지점 (역 개수) |
+| ------------- | ------------------------ |
+| 모노레일 초지 | 0개                      |
+| 화물 계곡     | 2개                      |
+| 박스카 만     | 2개                      |
+| 환승섬        | 3개                      |
+| 보일러 황무지 | 4개                      |
 
 ### 속도 증가율
 
 아래는 시작 역에 따른 기차의 기반 속도와 플레이어 수에 따른 속도 변화를 나타내는 표입니다.
 
-|역 개수|1명|2명|3명|4명|
-|---|---|---|---|---|
-|1|0.040|0.050|0.080|0.100|
-|2|0.046|0.056|0.087|0.108|
-|3|0.056|0.066|0.098|0.119|
-|4|0.067|0.077|0.111|0.133|
-|5|0.079|0.089|0.125|0.147|
-|6|0.092|0.102|0.140|0.163|
-|7|0.106|0.116|0.156|0.180|
-|8|0.120|0.130|0.173|0.198|
-|9|0.136|0.146|0.190|0.217|
-|10|0.152|0.162|0.209|0.237|
-|11|0.169|0.179|0.229|0.258|
-|12|0.187|0.197|0.250|0.280|
-|13|0.206|0.216|0.272|0.304|
-|14|0.227|0.237|0.295|0.328|
-|15|0.249|0.259|0.321|0.355|
-|16|0.273|0.283|0.347|0.383|
-|17|0.298|0.308|0.376|0.413|
-|18|0.325|0.335|0.407|0.446|
-|19|0.355|0.365|0.440|0.480|
-|20|0.388|0.398|0.476|0.518|
-|21|0.424|0.434|0.515|0.559|
-|22|0.463|0.473|0.558|0.604|
-|23|0.507|0.517|0.606|0.653|
-|24|0.555|0.565|0.658|0.706|
-|25|0.609|0.619|0.716|0.766|
-|26|0.670|0.680|0.780|0.832|
-|27|0.738|0.748|0.852|0.906|
-|28|0.815|0.825|0.933|0.988|
-|29|0.902|0.912|1.024|1.081|
-|30|1.001|1.011|1.126|1.186|
-|31|1.113|1.123|1.243|1.304|
-|32|1.241|1.251|1.375|1.438|
+| 역 개수 | 1명   | 2명   | 3명   | 4명   |
+| ------- | ----- | ----- | ----- | ----- |
+| 1       | 0.040 | 0.050 | 0.080 | 0.100 |
+| 2       | 0.046 | 0.056 | 0.087 | 0.108 |
+| 3       | 0.056 | 0.066 | 0.098 | 0.119 |
+| 4       | 0.067 | 0.077 | 0.111 | 0.133 |
+| 5       | 0.079 | 0.089 | 0.125 | 0.147 |
+| 6       | 0.092 | 0.102 | 0.140 | 0.163 |
+| 7       | 0.106 | 0.116 | 0.156 | 0.180 |
+| 8       | 0.120 | 0.130 | 0.173 | 0.198 |
+| 9       | 0.136 | 0.146 | 0.190 | 0.217 |
+| 10      | 0.152 | 0.162 | 0.209 | 0.237 |
+| 11      | 0.169 | 0.179 | 0.229 | 0.258 |
+| 12      | 0.187 | 0.197 | 0.250 | 0.280 |
+| 13      | 0.206 | 0.216 | 0.272 | 0.304 |
+| 14      | 0.227 | 0.237 | 0.295 | 0.328 |
+| 15      | 0.249 | 0.259 | 0.321 | 0.355 |
+| 16      | 0.273 | 0.283 | 0.347 | 0.383 |
+| 17      | 0.298 | 0.308 | 0.376 | 0.413 |
+| 18      | 0.325 | 0.335 | 0.407 | 0.446 |
+| 19      | 0.355 | 0.365 | 0.440 | 0.480 |
+| 20      | 0.388 | 0.398 | 0.476 | 0.518 |
+| 21      | 0.424 | 0.434 | 0.515 | 0.559 |
+| 22      | 0.463 | 0.473 | 0.558 | 0.604 |
+| 23      | 0.507 | 0.517 | 0.606 | 0.653 |
+| 24      | 0.555 | 0.565 | 0.658 | 0.706 |
+| 25      | 0.609 | 0.619 | 0.716 | 0.766 |
+| 26      | 0.670 | 0.680 | 0.780 | 0.832 |
+| 27      | 0.738 | 0.748 | 0.852 | 0.906 |
+| 28      | 0.815 | 0.825 | 0.933 | 0.988 |
+| 29      | 0.902 | 0.912 | 1.024 | 1.081 |
+| 30      | 1.001 | 1.011 | 1.126 | 1.186 |
+| 31      | 1.113 | 1.123 | 1.243 | 1.304 |
+| 32      | 1.241 | 1.251 | 1.375 | 1.438 |
 
 ```mermaid
 xychart-beta
@@ -1042,17 +1042,17 @@ xychart-beta
 
 한편, **엔진 자체**는 다른 인접한 열차가 불에 탄다고 해서 더 빨리 불에 타지 않습니다.
 
-||||
-|---|---|---|
-|열차|열차(🔥화르륵)|**엔진**|
+|      |               |          |
+| ---- | ------------- | -------- |
+| 열차 | 열차(🔥화르륵) | **엔진** |
 
 같은 맥락으로, 연속된 3개의 열차의 양쪽 열차가 불에 타는 경우 그 사이에 낀 열차는 2배의 속도로 불에 타지 않습니다.
 
 아래 그림에서 **열차B**는 양쪽이 불탄다고 해서 더 빨리 **불에 타지 않습니다**.
 
-|||||
-|---|---|---|---|
-|열차A(🔥화르륵)|**열차B**|열차C(🔥화르륵)|엔진|
+|                |           |                |      |
+| -------------- | --------- | -------------- | ---- |
+| 열차A(🔥화르륵) | **열차B** | 열차C(🔥화르륵) | 엔진 |
 
 ### 급수량 게이지
 
@@ -1133,13 +1133,13 @@ xychart-beta
 
 우유를 얻을 수 있는 동물 리스트는 다음과 같습니다:
 
-|동물|이름|출현 지역|효과|탑승 가능 여부|비고|
-|-----|-----|-----|-----|-----|-----|
-|<img src="./media/animals/deer.png" alt="사슴" width="100px"/>|사슴(Deer)|모노레일 초지|5개의 완력 카트리지를 20초간 제공합니다.|✅|사슴이지만 소처럼 생겨서 소라고 불리기도 합니다.|
-|<img src="./media/animals/crocodile.png" alt="악어" width="100px"/>|악어(Crocodile)|화물 계곡|6개의 적재 카트리지를 20초간 제공합니다.|✅|N/A|
-|<img src="./media/animals/frog.png" alt="개구리" width="100px"/>|개구리(Frog)|박스카 만|5개의 횃불 카트리지를 20초간 제공합니다.|❌|주변의 **거미줄을 먹어치웁니다**. 다가가면 통통 튀면서 도망가기 때문에 잡기 어렵습니다.|
-|<img src="./media/animals/crab.png" alt="게" width="100px"/>|게(Crab)|환승섬|5개의 멀티툴 카트리지를 20초간 제공합니다.|✅|게를 든 상태에서 물가(밀물 상태)로 이동하면 **육지가 생겨납니다**.|
-|<img src="./media/animals/waste-slime.png" alt="황무지 슬라임" width="100px"/>|황무지 슬라임(Waste Slime)|보일러 황무지|5개의 양동이 카트리지를 20초간 제공합니다.|❌|슬라임은 열차를 **즉시 불태우는 능력**을 가지고 있기 때문에 열차에 근접하지 못하게 하는 관리가 필요합니다. 또한, 피격시 분열하는 특성을 가지고 있습니다.|
+| 동물                                                                           | 이름                       | 출현 지역     | 효과                                       | 탑승 가능 여부 | 비고                                                                                                                                                     |
+| ------------------------------------------------------------------------------ | -------------------------- | ------------- | ------------------------------------------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./media/animals/deer.png" alt="사슴" width="100px"/>                 | 사슴(Deer)                 | 모노레일 초지 | 5개의 완력 카트리지를 20초간 제공합니다.   | ✅              | 사슴이지만 소처럼 생겨서 소라고 불리기도 합니다.                                                                                                         |
+| <img src="./media/animals/crocodile.png" alt="악어" width="100px"/>            | 악어(Crocodile)            | 화물 계곡     | 6개의 적재 카트리지를 20초간 제공합니다.   | ✅              | N/A                                                                                                                                                      |
+| <img src="./media/animals/frog.png" alt="개구리" width="100px"/>               | 개구리(Frog)               | 박스카 만     | 5개의 횃불 카트리지를 20초간 제공합니다.   | ❌              | 주변의 **거미줄을 먹어치웁니다**. 다가가면 통통 튀면서 도망가기 때문에 잡기 어렵습니다.                                                                  |
+| <img src="./media/animals/crab.png" alt="게" width="100px"/>                   | 게(Crab)                   | 환승섬        | 5개의 멀티툴 카트리지를 20초간 제공합니다. | ✅              | 게를 든 상태에서 물가(밀물 상태)로 이동하면 **육지가 생겨납니다**.                                                                                       |
+| <img src="./media/animals/waste-slime.png" alt="황무지 슬라임" width="100px"/> | 황무지 슬라임(Waste Slime) | 보일러 황무지 | 5개의 양동이 카트리지를 20초간 제공합니다. | ❌              | 슬라임은 열차를 **즉시 불태우는 능력**을 가지고 있기 때문에 열차에 근접하지 못하게 하는 관리가 필요합니다. 또한, 피격시 분열하는 특성을 가지고 있습니다. |
 
 ## Credits
 
